@@ -1,16 +1,13 @@
-## Hi there 👋
+## Heechan An 📊
+**`Data & Business Analytics`**
 
-<!--
-**heechanan1110/HeechanAn1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Business Technology Management graduate, Toronto Metropolitan University<br>
+🎓 Master of Management (International Business) student, Chulalongkorn University<br>
 
-Here are some ideas to get you started:
+🛠️ Certifications:
+   - Google Data Analytics Professional Certificate
+   - Excel Skills for Business Specialization
+   - SQL for Data Analysis and Business Insights Specialization
+   - Tableau Business Intelligence Analyst Professional Certificate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I first worked hands-on with data while studying Business Technology Management at Toronto Metropolitan University, and built on that foundation through certifications, online coursework, and independent projects. I'm now pursuing a Master's in International Business Management at Chulalongkorn University, where I'm sharpening my ability to understand business problems, extract meaningful insights, and translate them into actionable decisions.
